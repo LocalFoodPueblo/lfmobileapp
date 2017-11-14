@@ -9,7 +9,7 @@ Sales and distribution of the food are not planned to take place directly via th
 
 ## Project Status
 
-As of November 14, 2017, the existing application is a very simple example of what the App might look like. It demonstrates only a few features that the final App will have. Development of the App is planned to take place throughout 2018 with a the final "version 1" release date target of April 2019. In the coming days and weeks more information will be made available on GitHub including App feature specifications, Contributor License Agreement document(s), and contributor guidelines.
+As of November 14, 2017, the existing application is a very simple example of what the App might look like. It demonstrates only a few features that the final App will have. Development of the App is planned to take place throughout 2018 with a the final "version 1" release date target of April 2019. In the coming days and weeks more information will be made available on GitHub including App feature specifications, Contributor License Agreement document(s), and contributor guidelines. Please also check back soon for an updated README and project specifications in the Wiki.
 
 ## Contribution Notes
 
@@ -17,6 +17,4 @@ If you are interested in helping develop the App or provide other assistance for
 
 Thank you for your interest in contributing to this ambitious project! As open source software licensed under the Apache License 2.0 it will be available for anyone to use and customize as needed.<br>
 <br>
-<hr>
-<br>
-<em>LocalFood Pueblo, the custodial organization overseeing the project, is a subsidary of the 501(c)3 nonprofit NeighborWorks Southern Colorado located in Pueblo, CO, USA. For more information you can visit the web sites for each organization at http://lfpueblo.org and http://nwsoco.org.</em>
+<hr><em>LocalFood Pueblo, the custodial organization overseeing the project, is a subsidary of the 501(c)3 nonprofit NeighborWorks Southern Colorado located in Pueblo, CO, USA. For more information you can visit the web sites for each organization at http://lfpueblo.org and http://nwsoco.org.</em>
