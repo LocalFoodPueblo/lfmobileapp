@@ -13,8 +13,8 @@ As of November 14, 2017, the existing application is a very simple example of wh
 
 ## Contribution Notes
 
-If you are interested in helping develop the App or provide other assistance for this project (perhaps writing documentation), please check out the volunteer developer job descriptions posted on the [NeighborWorks Southern Colorado web site](http://nwsoco.org/who-we-are/join-our-team.html "Join the Team") and send a resume, a link to a resume online, or any other comments or questions to admin@nwsoco.org.
+If you are interested in helping develop the App or provide other assistance for this project (perhaps writing documentation), please review the project's [Code of Conduct](CODE_OF_CONDUCT.md), check out the volunteer developer job descriptions posted on the [NeighborWorks Southern Colorado web site](http://nwsoco.org/who-we-are/join-our-team.html "Join the Team") and send a resume, a link to a resume online, or any other comments or questions to admin@nwsoco.org.
 
-Thank you for your interest in contributing to this ambitious project! As open source software licensed under the Apache License 2.0 it will be available for anyone to use and customize as needed.<br>
+Thank you for your interest in contributing to this ambitious project. It would not be possible without people like you! As open source software licensed under the Apache License 2.0 it will be available for anyone to use and customize as needed.<br>
 <br>
 <hr><em>LocalFood Pueblo, the custodial organization overseeing the project, is a subsidary of the 501(c)3 nonprofit NeighborWorks Southern Colorado located in Pueblo, CO, USA. For more information you can visit the web sites for each organization at http://lfpueblo.org and http://nwsoco.org.</em>
