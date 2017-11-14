@@ -1,0 +1,9 @@
+<ion-view title="Map" id="page8">
+  <ion-content padding="false" class=" manual-remove-top-padding has-header" scroll="false">
+    <creator-map-component options="{&quot;mapTypeId&quot;:&quot;roadmap&quot;}" marker="true" location="611 Broadway Ave Pueblo, Colorado" zoom="12" style="display:block;position:relative;width:100%;height:100%;">
+      <ui-gmap-google-map ng-if="map.center" center="map.center" zoom="map.zoom" options="map.options">
+        <ui-gmap-marker coords="map.marker.coords" idkey="map.marker.id" options="map.marker.options"></ui-gmap-marker>
+      </ui-gmap-google-map>
+    </creator-map-component>
+  </ion-content>
+</ion-view>

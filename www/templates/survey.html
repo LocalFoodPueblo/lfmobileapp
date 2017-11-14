@@ -1,0 +1,39 @@
+<ion-view title="Survey" id="page13">
+  <ion-content padding="true" class="has-header">
+    <form id="survey-form10" class="list">
+      <label class="item item-input" id="survey-input14">
+        <span class="input-label">Name</span>
+        <input type="text" placeholder="" ng-model="data.name">
+      </label>
+      <label class="item item-input" id="survey-input21">
+        <span class="input-label">Food</span>
+        <input type="text" placeholder="" ng-model="data.food">
+      </label>
+      <label class="item item-input" id="survey-input13">
+        <span class="input-label">Description</span>
+        <input type="text" placeholder="" ng-model="data.descr">
+      </label>
+      <label class="item item-input" id="survey-input22">
+        <span class="input-label">Website</span>
+        <input type="text" placeholder="" ng-model="data.website">
+      </label>
+      <label class="item item-input" id="survey-input23">
+        <span class="input-label">Phone</span>
+        <input type="text" placeholder="" ng-model="data.phone">
+      </label>
+      <label class="item item-input" id="survey-input19">
+        <span class="input-label">Address</span>
+        <input type="text" placeholder="" ng-model="data.address">
+      </label>
+      <label class="item item-select" id="survey-select12">
+        <span class="input-label">Category</span>
+        <select ng-model="data.category">
+          <option>Vendor</option>
+          <option>Food Bank</option>
+          <option>Producer</option>
+        </select>
+      </label>
+    </form>
+    <button id="survey-button14" ng-click="submit()" ng-disabled="submitting" class="button button-assertive  button-block">Submit </button>
+  </ion-content>
+</ion-view>

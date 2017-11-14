@@ -1,0 +1,15 @@
+<ion-view title="Deletion" id="page18">
+  <ion-nav-buttons side="right" class="has-header">
+    <button class="button button-icon icon ion-android-delete" ng-click="toggleDelete()"></button>
+  </ion-nav-buttons>
+  <ion-content padding="false" class="has-header">
+    <ion-refresher pulling-text="Pull to refresh..." on-refresh="loadData()"></ion-refresher>
+    <ion-list id="deletion-list4" show-delete="showDelete">
+      <ion-item class="item-avatar" id="deletion-list-item12" ng-repeat="survey in surveys">
+        <h2>{{survey.name}}</h2>
+        <p>has {{survey.food}}</p>
+        <ion-delete-button class="ion-minus-circled" ng-click="deleteItem($index)"></ion-delete-button>
+      </ion-item>
+    </ion-list>
+  </ion-content>
+</ion-view>

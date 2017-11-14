@@ -1,0 +1,39 @@
+$assertive: #D82127;
+$energized: #FAD033;
+$balanced: #008000;
+$stable: #FEEED4;
+$light: #FEEED4;
+$dark: #000000;
+$link-color: $assertive;
+$ionicons-font-path: "../lib/ionic/fonts" !default;
+@import "../www/lib/ionic/scss";
+.n.png {
+	img {
+		height: 70vh !important;
+		width: auto !important;
+		align-items: center;
+	}
+	
+}
+$input-label-color: $dark !default;
+// This code is required for Angular Google Maps to funciton
+ui-gmap-google-map {
+	height: 100%;
+	width: 100%;
+	display: block;
+	.angular-google-map {
+		height: 100%;
+		.angular-google-map-container {
+			height: 100%;
+		}
+		
+	}
+}
+ion-view,.pane,.view {
+	background-color: #FEEED4;
+}
+
+body {
+	color: #FF0404;
+}
+

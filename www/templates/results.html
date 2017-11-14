@@ -1,0 +1,11 @@
+<ion-view title="Results" id="page12">
+  <ion-content padding="false" class="has-header">
+    <ion-refresher pulling-text="Pull to refresh..." on-refresh="loadData()"></ion-refresher>
+    <ion-list id="results-list3">
+      <ion-item class="item-avatar" id="results-list-item11" ui-sref="tabscontroller.descriptionPage" ng-repeat="survey in surveys">
+        <h2>{{survey.name}}</h2>
+        <p>has {{survey.food}}</p>
+      </ion-item>
+    </ion-list>
+  </ion-content>
+</ion-view>
