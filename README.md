@@ -9,7 +9,7 @@ Sales and distribution of the food are not planned to take place directly via th
 
 ## Project Status
 
-As of November 14, 2017, the existing application is a very simple example of what the App might look like. It demonstrates only a few features that the final App will have. Development of the App is planned to take place throughout 2018 with a the final "version 1" release date target of April 2019. In the coming days and weeks more information will be made available on GitHub including App feature specifications, Contributor License Agreement document(s), and contributor guidelines. Please also check back soon for an updated README and project specifications in the [Wiki](https://github.com/LocalFoodPueblo/lfmobileapp/wiki).
+As of November 14, 2017, the existing application is a very simple example of the App. It demonstrates only a few features that the final App will have. The code was developed in the spring of 2017 for NeighborWorks Southern Colorado and LocalFood Pueblo by senior Computer Information System students at the Hasan School of Business at Colorado State University Pueblo. Intense development of the App is planned throughout 2018 with a final "version 1" release date target of April 2019. In the last several weeks of 2017 detailed information will be posted on GitHub including contributor guidelines, Contributor License Agreement document(s), and App feature specifications. Please check back soon also for an updated README and project details in the [Wiki](https://github.com/LocalFoodPueblo/lfmobileapp/wiki).
 
 ## Contribution Notes
 
