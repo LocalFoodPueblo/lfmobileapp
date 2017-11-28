@@ -1,6 +1,6 @@
 # lfmobileapp
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=5OLwv4ctZV8"> <img src="https://img.youtube.com/vi/5OLwv4ctZV8/maxresdefault.jpg" target="_blank" alt="Local Food Mobile App Introduction" width="480" height="270" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=5OLwv4ctZV8" target="_blank" > <img src="https://img.youtube.com/vi/5OLwv4ctZV8/maxresdefault.jpg" alt="Local Food Mobile App Introduction" width="480" height="270" border="10" /></a>
 
 ## The Local Food Mobile App
 
