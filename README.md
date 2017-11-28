@@ -12,13 +12,19 @@ Sales and distribution of the food are not planned to take place directly via th
 
 ## Project Status
 
-As of November 14, 2017, the existing application is a very simple example of the App. It demonstrates only a few features that the final App will have. The code was developed in the spring of 2017 for NeighborWorks Southern Colorado and LocalFood Pueblo by senior Computer Information System students at the Hasan School of Business at Colorado State University Pueblo. Intense development of the App is planned throughout 2018 with a final "version 1" release date target of April 2019. In the last several weeks of 2017 detailed information will be posted on GitHub including contributor guidelines, Contributor License Agreement document(s), and App feature specifications. Please check back soon also for an updated README and project details in the [Wiki](https://github.com/LocalFoodPueblo/lfmobileapp/wiki). Starting on GivingTuesday, November 28, 2017, and until December 31, 2017, we are seeking donations via our [DepositAGift fundraiser page](https://localfoodmobileapp.mydagsite.com). If you are able, please donate to help us complete the App. Thank you!
+As of November 14, 2017, the existing application is a very simple example of the App. It demonstrates only a few features that the final App will have. The code was developed in the spring of 2017 for NeighborWorks Southern Colorado and LocalFood Pueblo by senior Computer Information System students at the Hasan School of Business at Colorado State University Pueblo. Intense development of the App is planned throughout 2018 with a final "version 1" release date target of April 2019. In the last several weeks of 2017 detailed information will be posted on GitHub including contributor guidelines, Contributor License Agreement document(s), and App feature specifications. Please check back soon also for an updated README and project details in the [Wiki](https://github.com/LocalFoodPueblo/lfmobileapp/wiki).
+
+Starting on GivingTuesday, November 28, 2017, and until December 31, 2017, we are seeking donations via our [DepositAGift fundraiser page](https://localfoodmobileapp.mydagsite.com). If possible please donate to help us complete the App or share the link below. Thank you!
+
+https://localfoodmobileapp.mydagsite.com
 
 ## Contribution Notes
 
 If you are interested in helping develop the App or providing other assistance for this project (perhaps writing documentation), please review the project's [Code of Conduct](CODE_OF_CONDUCT.md), check out the volunteer developer job descriptions posted on the [NeighborWorks Southern Colorado web site](http://nwsoco.org/who-we-are/join-our-team.html "Join the Team") and send a resume, a link to a resume online, or any other comments or questions to admin@nwsoco.org.
 
-Starting on GivingTuesday, November 28, 2017, and until December 31, 2017, we are seeking donations via our [DepositAGift fundraiser page](https://localfoodmobileapp.mydagsite.com). If you cannot contribute your skills we would appreciate a donation to help us complete the App. Thank you!
+Starting on GivingTuesday, November 28, 2017, and until December 31, 2017, we are seeking donations via our [DepositAGift fundraiser page](https://localfoodmobileapp.mydagsite.com). If you cannot contribute your skills we would appreciate a donation to help us complete the App and a share of the link below. Thank you!
+
+https://localfoodmobileapp.mydagsite.com
 
 Thank you for your interest in contributing to this ambitious project. It would not be possible without people like you! As open source software licensed under the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0) it will be available for anyone to use and customize as needed.<br>
 <br>
