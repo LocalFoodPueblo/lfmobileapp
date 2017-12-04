@@ -37,7 +37,7 @@ Thanks,
 
 Frank Cordova, Director of LocalFood Pueblo and "Product Owner" ([per Scrum framework](http://www.scrumguides.org/scrum-guide.html#team-po "Official Scrum Guide"))<br>
 <br>
-<hr>Parts of this CONTRIBUTING.md have been adapted from parts of the following projects' CONTRIBUTING files:
+<hr><em>Parts of this CONTRIBUTING.md have been adapted from parts of the following projects' CONTRIBUTING files:</em><br>
 <ul><li><a href="https://github.com/openfoodfoundation/openfoodnetwork/blob/master/CONTRIBUTING.md" target="_blank">Open Food Network</a></li>
 <li><a href="https://github.com/opengovernment/opengovernment/blob/master/CONTRIBUTING.md" target="_blank">Open Government</a></li>
 <li><a href="https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md" target="_blank">nayafia's contributing-template</a></li>
