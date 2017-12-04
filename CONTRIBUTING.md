@@ -19,7 +19,7 @@ There are a series of steps to contributing to the Local Food Mobile App project
    * Signing and returning the CLA document does not automatically guarantee your proposed contributions will be accepted into the project. Accepting contributions is subject to some vetting of the contributors themselves.
    * As of December 4, 2017, the CLA documents have not been released but they will be ready by December 15.
 
-# Coding conventions
+# Coding Conventions
 
 Start reading our code and you'll get the hang of it. We optimize for readability:
 
