@@ -8,7 +8,7 @@ Following these guidelines will ensure the time and resources of the developers 
 
 # How to Contribute
 
-There are a series of steps to contributing to the Local Food Mobile App project. All steps are fairly standard to open source projects hosted on GitHub. For completeness and ease of reference the steps are outlined below.
+There are a series of steps to contributing to the Local Food Mobile App project. Most steps are fairly standard to open source projects hosted on GitHub. The steps are outlined below.
 
 1. Read through the [README.md](README.md) to understand the basic purpose of the project.
 2. Read through the [LICENSE.md](LICENSE.md) to understand the license terms of the project.
