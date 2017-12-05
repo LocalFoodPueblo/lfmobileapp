@@ -13,7 +13,7 @@ There are a series of steps to contributing to the Local Food Mobile App project
 1. Read through the [README.md](README.md) to understand the basic purpose of the project.
 2. Read through the [LICENSE.md](LICENSE.md) to understand the license terms of the project.
 3. Read through the [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) to understand the behavioral expectations of contributors to the project.
-4. Read through the job descriptions on the [NeighborWorks Southern Colorado web site](http://nwsoco.org/who-we-are/join-our-team.html) and submit a resume to admin@nwsoco.org.
+4. Read through the developer job descriptions on the [NeighborWorks Southern Colorado web site](http://nwsoco.org/who-we-are/join-our-team.html) and submit a resume to admin@nwsoco.org.
 5. Read through, sign, and submit a signed Contributor License Agreement (CLA) document to NeighborWorks Southern Colorado.
    * Our preference is to have the CLA signed digitally via Docusign or cryptographically via GPG/PGP rather than physically (print, sign, and return via email/fax).
    * Signing and returning the CLA document does not automatically guarantee your proposed contributions will be accepted into the project. Accepting contributions is subject to some vetting of the contributors themselves.
