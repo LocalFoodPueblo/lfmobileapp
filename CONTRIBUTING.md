@@ -31,7 +31,7 @@ Start reading our code and you'll get the hang of it. We optimize for readabilit
   * So that we can consistently serve images from the CDN, always use image_path or image_tag when referring to images. Never prepend "/images/" when using image_path or image_tag.
   * Also for the CDN, always use cwd-relative paths rather than root-relative paths in image URLs in any CSS. So instead of url('/images/blah.gif'), use url('../images/blah.gif').
 
-These contributing guidlines are a work in progess the information above is subject to change significantly until this note is removed from this document. Please check back soon for updates and soon enough a completed document. Thank you!
+These contributing guidlines are a work in progess. The information above is subject to change significantly until this note is removed from this document. Please check back soon for updates. Thank you!
 
 Thanks,
 
