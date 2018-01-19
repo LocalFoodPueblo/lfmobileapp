@@ -19,6 +19,10 @@ There are a series of steps to contributing to the Local Food Mobile App project
    * Our preference is to have the CLA signed cryptographically via GPG/PGP or digitally via Docusign rather than physically (printed and signed with ink).
    * Signing and returning the CLA document does not guarantee all proposed contributions will be accepted. Accepting contributions is subject to review and approval of the contributed works which must meet coding conventions and other standards of content and quality.
 
+# Why is there a formal CLA?
+
+The custodial organization for the Local Food Mobile App--LocalFood Pueblo--is part of a 501(c)(3) nonprofit with the trade name (dba) of NeighborWorks Southern Colorado (NWSoCo) funded in part by the federal government, foundations, and other contributors. As such the organization is impelled to institute concise policies and keep thorough records to satisfy the requirements of various stakeholders. To put it simply, NWSoCo must cover its bases to ensure its own security and the security of its stakeholders. A formal agreement between NWSoCo and contributors to the Local Food Mobile App project satisfies this need. Additionally, accepted volunteer contributions to the Local Food Mobile App can be considered donations to a nonprofit organization. If you need or desire documentation of your generous contribution to NWSoCo for tax or any other purposes please completely and accurately track all of the time you spend on specific contributions and contact the "Product Owner" (named at the bottom of this document) with that information to receive documentated evidence of your contributions.
+
 # Coding Conventions
 
 Start reading our code and you'll get the hang of it. We optimize for readability:
